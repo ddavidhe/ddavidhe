@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hello 👋
 
+4th-year `Data Science` major @ UWaterloo
+
+Interested in:
+- Classical Machine Learning
+- Reinforcement Learning Environment
+- LLM training
+
+A collection of things I've tried, big or small.
 <!--
 **ddavidhe/ddavidhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
