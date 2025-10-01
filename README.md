@@ -4,10 +4,12 @@
 
 Interested in:
 - Classical Machine Learning
-- Reinforcement Learning Environment
 - LLM training
+- Reinforcement Learning Environments
 
 A collection of things I've tried, big or small.
+
+Contact me at `david.he@uwaterloo.ca` or on (LinkedIn)[https://www.linkedin.com/in/davidhhe/]
 <!--
 **ddavidhe/ddavidhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
