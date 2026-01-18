@@ -9,7 +9,7 @@ Interested in:
 
 A collection of things I've tried, big or small.
 
-Contact me at `david.he@uwaterloo.ca` or on [LinkedIn](https://www.linkedin.com/in/davidhhe/)
+Contact me at `davidhe.3612@gmail.ca` or on [LinkedIn](https://www.linkedin.com/in/davidhhe/)
 <!--
 **ddavidhe/ddavidhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
